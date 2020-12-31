@@ -36,5 +36,5 @@ Wind direction: degrees
 Wind speed: miles per hour
 Sunrise/sunset: Hawaii time
 ## Link of the project:
-https://solar-radiation-prediction.herokuapp.com/ <br>
-I pushed the project on Heroku server.
+ I pushed the project on Heroku server
+[View the project](https://solar-radiation-prediction.herokuapp.com/)
